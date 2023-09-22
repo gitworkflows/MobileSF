@@ -1,0 +1,4 @@
+build-*
+debug
+*.o.d
+binutils-gdb/*
