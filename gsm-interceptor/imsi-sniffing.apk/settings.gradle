@@ -1,0 +1,2 @@
+include ':app', ':patchanalysis_module'
+project(':patchanalysis_module').projectDir = new File('patchanalysis/patchanalysis_module')
